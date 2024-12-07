@@ -5,10 +5,6 @@ A fully functional YouTube clone built using the MERN (MongoDB, Express.js, Reac
 ## Features
 
 - User authentication (Sign Up, Log In, Log Out)
-- Video upload and streaming
-- Like, comment, and subscribe functionality
-- Search and filter videos
-- Video recommendations
 - User profiles and video management
 
 ## Tech Stack
